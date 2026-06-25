@@ -1,4 +1,4 @@
-<h1 align="center">OpenHub</h1>
+<img src="/assets/banner.png">
 
 <p align="center">
   <strong>All tech events. One platform.</strong>
